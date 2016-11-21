@@ -1,0 +1,9 @@
+indexes:
+
+- kind: Temperature
+  ancestor: no
+  properties:
+  - name: date
+    direction: desc
+  - name: time
+    direction: desc
